@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My First Webpage</title>
+		<meta charset="UTF-8">
+		<meta name="description" content="This field contains information about your page. It is usually around two sentences long.">.
+		<meta name="author" content="Conor Sheils">
+	</head>
+	<body>
+		<h1> Bienvenido a mi Pagina</h1>	
+		<p>Welcome to <em>my</em> brand new website. 
+		This site will be my <strong>new<strong> home on the web.</p>
+		<a href="file:///C:/Users/Diego/Desktop/ejercisio%20diego/programa%20sublim/primer%20pueba%20proyect/page2.html">Page2</a>
+		<img src="testpic.jpg" alt="This is a test image" height="142" width="142">
+		<ol>
+			<li>An item </li>
+			<li>Another item </li>
+			<li>Another goes here </li>
+		</ol>
+		<ul>
+ 			<li>This is </li>
+			<li>An Unordered </li>
+			<li>List </li>
+		</ul>
+
+		<p>This website will have the following benefits for my business:</p>
+			<ul>
+				<li>Increased traffic </li>
+				<li>Global Reach</li>
+				<li>Promotional Opportunities</li>
+			</ul>
+	</body>
